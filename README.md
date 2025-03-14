@@ -18,27 +18,12 @@ git clone https://github.com/jayanthi06/Autism-App.git
 cd Autism-App
 2. Install Dependencies
 bash
-Copy
-Edit
 npm install
-or
-
-bash
-Copy
-Edit
 yarn install
 3. Start the Application
 For React Native (Expo):
-
-bash
-Copy
-Edit
 npm start
 For a Node.js backend (if applicable):
-
-bash
-Copy
-Edit
 node server.js
 
 
